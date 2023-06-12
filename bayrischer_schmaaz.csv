@@ -32,6 +32,7 @@ Boussara,lauter Schlag,Des hod an gscheidn Boussara do.
 boussn,stoßen schlagen,De Strass boussd oan gscheid hea.
 Braggl,große Person,a Braggl Mo
 brazzln,"ausschmieren, übervorteilen",Do hod mi da Autodantla gscheid brazzlt.
+Breggalhuastn,Husten mit Auswurf,Muas ma ned hom.
 bressieren,eilig sein,Des bressiert ned.
 broudeln,Brotzeit machen,"Soie wos kocha, oda deama broudeln?"
 Broz,Kröte,Jetzt hockst do wia a Broz.
@@ -79,6 +80,7 @@ Dragg,freches Kind,Jetz hod ma der Dragg an Babb aufn Stui aufegschmiert!
 drammhabbad,verträumt,"Duad ma leid, i bin no ganz drammhabbad, i hob heid bloß drei Stundn gschlaffa"
 Drappe,"Schimpfwort für weibl. Person, bezeichnet Ungeschicktheit, Unvermögen",Des Drappe dagneißts einfach ned.
 drazzn,"ärgern, hänseln",drazzada Uhu!
+drent,drüben,######################################################################
 Droad,Getreide,
 Drum,großes Stück,Dann hod a eam a Drum Fozzn gem.
 Dschamsdara,Liebhaber (abwertend),Ihr neia Dschamsdara hod's gnau beianand.
@@ -146,74 +148,59 @@ gwannt,komfortabel,Des is a gwannte Gschicht!
 gwapped,geldig,
 "gwebbsad, webbsad",nervös (wie eine Wespe),Kinda san vorm Christkindl bsondas webbsad.
 Gwurschdl,Durcheinander,Bei dem Gwurschdl kennt si doch koana mea aus.
-ha?,Wie bitte?,
-ha!,Wie bitte! (Ich höre wohl nicht richtig.),
-haarn,Haare verlieren (meist bei Tieren im Frühjahr),
-hadschn,humpelnd gehen,
-Hagglschdegga,Gehstock,
-Hallodri,Taugenichts,
+ha?,Wie bitte?,"Ha? Wos megst?"
+ha!,Wie bitte! (Ich höre wohl nicht richtig.),Ha! I glabs ja ned!
+Hagglschdegga,Gehstock,Ohne Hagglschdegga kannta go nimma hadschdn.
 hantig,"griesgrämig, bitter",für Personen und Speisen
 haudig,"schlecht, übel",I bin haudig beinand heid.
 hei,glatt,
 heinga,Heu machen,
-Hehnaschprenga,kleines Moped,
-herennt und drennt,hüben wie drüben,
-hikriang,"schaffen, bewältigen",
-hilassn,hinfallen,Auf dem Glatteis hods mi sofoad hilassn.
-hoaklig,wählerisch (beim Essen),Hoakliger Deifi!
+Hehnaschprenga,kleines Moped,Moanst griagst mein Hehnaschprenga wieda hi?
+herent,auf dieser Seite,"Bleib herent, do kimmt a Auto"
+hilassn,hinfallen,Aufm Glatteis hods mi sofoad hilassn.
 hoglbuachan,robust,
-hoibscharig,unausgereift,
-Hoiz,"Holz, aber auch Wald",I geh ins Hoiz naus.
-hudeln,zu schnell und daher fehlerhaft arbeiten,
+hoibscharig,unausgereift,##################################################
+Hoiz,"Wald",I geh ins Hoiz naus.
 hübsch,sehr,Des Buach is hübsch langweilig.
-"Hund, Hundling",Mann mit Schneid (anerkennend),
 husch,kalt,
-idasai,ihre (Possessivpronomen),
+idasai,ihre (Possessivpronomen),San des meine Schuah? Na des sand idasei.
 ian,irritieren,Dea iad mi mid seim bledn Blindsln.
 Imbbn,Bienen,
-Kambbe,"Kamm, aber auch junger Bursche",
-kambben,kämmen,
-kasig,bleich,
+Kambbe,"Kamm, aber auch junger Bursche","Schau da den Kambbe o, wia a si ständig mitm Kambbe d Hoa richt"
+kambben,kämmen,"I bin soweid, gschneizt und kambbed."
 katzzln / umanand katzzln,zusätzliche (unnötige) Umstände machen oder ausgesetzt sein,
-Klabbal,Sandalen,
-Klumbb,Gegenstand von schlechter Qualität,
-kniggad,geizig,
-kobbn,rülpsen,
-Koud,Erde,
-krachat,ordinär,
-krageln,"malen, schmieren",
-krampfen,stehlen,
-as Kraut ausschüttn,jemanden verärgern,
-Kreial,kleine Harke,
-krein,"arbeiten, herumräumen",umananda krein
-Krischbbal,"Kleine, schmächtige Person",
+Klabbal,Sandalen,Jetz hob i scho wieda an Stoa in meine Klabbal.
+Klumbb,Gegenstand von schlechter Qualität,Des Klumbb kost da bhoidn!
+kniggad,geizig,Dea is sogor fürn Boda z kniggad.
+kobbn,rülpsen,Er is an oam kobbn.
+Koud,Erde,Mei Hosn is voia Koud.
+krachat,ordinär,De is ma z'krachat.
+as Kraut ausschüttn,jemanden verärgern,Damid hod a ma sauba s Kraut ausgschütt.
+Kreial,kleine Harke,"Kost ma moi s Kreial gebn, mit da großn kim i ned hi."
+krein,"arbeiten, herumräumen","I bin seit drei Stundn nua am umananda krein, eigntlich woit i no kocha."
+Krischbbal,"Kleine, schmächtige Person",Wos megst du Krischbbal jetz vo mia?
 Kruschbbe,Knorpel,
 Kwasch,"Limomischung, Spezi","Mit am Grachal is a Radla ja ganz leiband, aba mit am Kwasch is einfach nua greislig"
-ladschn,kraft- und lustlos gehen,
-lädschad,unmotiviert,es glangt
-Lädschn,Gesicht (abwertend),Jetz ziag ned so a Lädschn und hea auf zu benzn
-langa,reichen,Du Biadimpfe langst heid a scho wieda
-lak,"schal, abgestanden",
-Leddn,"durchweichter Boden, schlammiger, morastiger Weg",
+lädschad,unmotiviert,I bin heid richtig lädschad.
+Lädschn,Gesicht (abwertend),Jetz ziag ned so a Lädschn und hea auf zu benzn!
+langa,reichen,Du Biadimpfe langst heid a scho wieda.
+lak,"schal, abgestanden","Dring schneia, sonst weads lak!"
+Leddn,"durchweichter Boden, schlammiger, morastiger Weg",Muast du etz unbedingt duach de Leddn latschn?
 Leich,Beerdigung,Aufd Leich geh.
 letz,unangenehm,
 lind,dünnflüssig,
-Loamsiada,Langweiler,
 loatn,lenken,Host as Auto ned daloatn kinna?
-luan,lauern,
-Lungaharing,Auswurf (aus der Lunge),
-lusn,zuhören,
-Madz,hintertriebene Person,
-"Mai, de Mai, da Mai","meine Frau, mein Mann",De Mai is ned gschammig.
-manggen,mogeln,
+luan,lauern,Lua moi ums Eck ob da Postla scho kimmd.
+Lungaharing,Auswurf (aus der Lunge),"Lungaharing - du farbenfroher Schleim, du kunterbunte Glitschigkeit, du Großbazillenheim (Willi Astor)"
+Madz,hintertriebene Person,Des hod si de Madz einfach krampfed.
+"Mai, de Mai, da Mai","meine Frau, mein Mann",De Mai is ned gschammig und hod imma wos zum mosan.
+manggen,mogeln,Ko ma do ned no wos manggen?
 Manschgal,kleines Männchen,Für so a Manschgal hod a aba gscheide Bratzn.
-Massl,Glück,Ja mei!
-mei,Da kann man nichts machen!,A so a Mettn!
+mei,Da kann man nichts machen!,"Ja mei, so wara scho imma."
 Mettn,"Krach, Unruhe",Wen de Mettn jetz ned glei vorbei is werd i aba grantig.
-Mia gangst!,In etwa: So weit kommt's noch!,
-Millibidschal,Milchkanne,
-Mongdrazzal,Kleiner Happen,
-mosern,meckern,
+Mia gangst!,In etwa: So weit kommt's noch!,"Mia gangst, wenn i mit dem Loamsiada in Urlaub fohn miassad"
+Millibidschal,Milchkanne,"Millikarra, de Millibidschal bringan, gibts scho lang nimma"
+Mongdrazzal,Kleiner Happen,Auf des Mongdrazzal brauch i jetz wos gscheids.
 nakkln,etwas in einer Halterung schnell hin- und herbewegen,
 nod doa,"notwendig sein, hilfreich sein",A dritte Hand daad jetz nod.
 Nosnramme,Nasenpopel,
@@ -230,7 +217,7 @@ obluxn,"jdn. etw. entwenden, zu unfairen Bedingungen erwerben",
 odrad,gewitzt,So a odrader Hundling!
 ofanggaln,reizen,
 ogeh,"berühren, anstoßen",Is' ebba oganga?
-oi Damm lang,"dauernd, häufig",
+oi Damm lang,"dauernd, häufig",Oi Damm lang kimmt da Hallodri und geht ma mid seim Schmads aufn Senkl.
 ohabig,"lästig, aufdringlich",
 okasn,anöden,
 okendn,anzünden,
@@ -242,15 +229,15 @@ Oschi,"großer Gegenstand, großer Kerl",
 owandln,"die Wand berühren, eine seitliche Begrenzung streifen",
 owebead,"heruntergewirtschaftet, verdreckt",
 owedoa,sich Sorgen machen,
-owegrumped,"herunterfallen, herunterstürzen",
+owegrumped,"herunterfallen, herunterstürzen","Jetz host a Massl ghabt, dasst ned owegrumped bist!"
 oweschwoam,hinunterspülen,
 Pritschn,"verräterische,Tratsch verbreitende Person",So a gschearde Pritschn.
 pritschn,"verraten, verpfeifen",
 Quadratradschn,Steigerung von Radschn,
-Raaner,Rote Beete,
+Raaner,Rote Beete,"I bin normal ned hoaglig, aba a Raaner brauch i ned."
 Rabbe,"Gemütsschieflage, Gemütsanwandlungen",Heid hod a wieda sein Rabbe.
 Radl Wurschd,Scheibe Wurst,
-radschn,sich unterhalten,
+radschn,sich unterhalten,Hea auf zum radschn und lus amoi hea.
 "Radschn, die","(weibl.) Person, die alles herumerzählt",
 Ramme,ungehobelter Kerl,Gscheada Ramme!
 Rankn,dicke Scheibe,
@@ -260,6 +247,7 @@ Raubial,widerspenstiger Kerl,
 Rean,Backröhre,
 rean,"weinen, heulen",
 Reibach,"Vorteil, Gewinn",
+reiern,sich übergeben,Noch da zehntn Hoibe war i nua am reiern.
 reigan,herumwetzen,
 Reindl,Auflaufform,
 "Reissn, in da Reissn hom","intensiv nutzen, für sich beanspruchen",Dea hod scho de ganze Zeit an Butta in da Reissn.
@@ -267,7 +255,7 @@ Remmidemmi,Tumult,
 Rennads,Rennen,
 resch,knusprig,
 rinnaugaud,mit tränenden Augen,
-Ruach,habgieriger Mensch,
+Ruach,habgieriger Mensch,"Do is da Ruach ganz kasig woan, wia i an zehna Trinkgeid gebn hob"
 ruassln,(hörbar) schlafen,
 rumpen,sich schnell unter Eile irgendwo begeben,Dann bin i no schnei in des Geschäft einigrumped.
 Sachl,kleines Anwesen,
@@ -280,7 +268,7 @@ schdeamvolladreg,über und über verdreckt,
 Schdiangglandarass,Mischlingshund,
 Schdriedse,Flegel,
 Schea,Maulwurf,
-schebbs,schief,
+schebbs,schief,"Hudl ned so, sonst weads schebbs"
 Schädan,dicke Scheibe,A sechana Schädan Lebakas!
 Schäsn,altes Auto,
 schiach,hässlich,
@@ -293,7 +281,7 @@ schliwazn,schlittern,
 Schmads,Gerede,
 Schmadshaum,Plaudertasche,
 schmadsn,"reden, plaudern",
-Schmeizla,Schnupftabak,
+Schmeizla,Schnupftabak,Der Hundling griagt überoi sein Schmeizla wenna oan mog.
 Schnack,Mücke,
 Schnaggla,Schluckauf,
 schnaggln,,
